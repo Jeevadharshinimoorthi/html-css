@@ -1,0 +1,49 @@
+ol{
+    display:inline;
+    float:right;
+}
+li{
+    display:inline;
+}
+span{
+    color: red;
+}
+header{
+    background-color: black;
+    color: white;
+    text-align:center;
+}
+nav{
+    margin-bottom:10px;
+    padding-bottom:5px;
+}
+name{
+    padding:50px 20px 50px 100px;
+}
+achive{
+    background-color: black;
+    height: 300px;
+    color: white;
+    text-align: center;
+    padding-top: 2px;
+}
+img{
+    height: 30px;
+    width: 30px;
+}
+a{
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.skill-out{
+    background-color:grey ;
+    color: red;
+}
+.skill-css{
+    background-color: grey;
+    color:red;
+}
